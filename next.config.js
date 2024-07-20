@@ -7,7 +7,7 @@ module.exports = {
     includePaths: [path.join(__dirname, 'styles')],
   },
   images: {
-    domains: ["https://chah1ne.github.io/myportfolio"],
+    domains: ["https://chah1ne.github.io/myportfolio/"],
     path: "/",
     unoptimized: true,
   },
