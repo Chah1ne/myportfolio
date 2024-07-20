@@ -7,17 +7,8 @@ module.exports = {
     includePaths: [path.join(__dirname, 'styles')],
   },
   images: {
-    remotePatterns: [
-      {
-        protocol: 'https',
-        hostname: 'res.cloudinary.com',
-        pathname: '**',
-      },
-      {
-        protocol: 'https',
-        hostname: 'media.dev.to',
-        pathname: '**',
-      },
-    ],
+    domains: ["https://chah1ne.github.io/myportfolio"],
+    path: "/",
+    unoptimized: true,
   },
 }
