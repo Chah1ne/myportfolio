@@ -8,7 +8,7 @@ module.exports = {
   },
   images: {
     domains: ["https://chah1ne.github.io/myportfolio/"],
-    path: "/",
+    path: "/myportfolio",
     unoptimized: true,
   },
 }
