@@ -1,7 +1,5 @@
-// next.config.js
-const path = require('path');
-const isProd = process.env.NODE_ENV === 'production';
-
+const path = require('path')
+ 
 module.exports = {
   sassOptions: {
     includePaths: [path.join(__dirname, 'styles')],
@@ -20,8 +18,4 @@ module.exports = {
       },
     ],
   },
-  basePath: isProd ? '/myportfolio' : '', // Ensure this matches your deployment path
-  assetPrefix: isProd ? '/myportfolio/' : '', // Ensure this matches your deployment path
-  output: 'export', // Static export configuration
-  distDir: 'out', // Output directory for static files
-};
+}
