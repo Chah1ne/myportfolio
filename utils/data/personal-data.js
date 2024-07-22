@@ -1,6 +1,6 @@
 export const personalData = {
   name: "Tsouri Chahine",
-  profile: '/image33.jpg',
+  profile: './image33.jpg',
   designation: "Full-Stack Software Developer",
   description: "My name is Tsouri Chahine. I am a professional and enthusiastic Web Developer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and strive to make the web more open to the world. My core skill is based on JavaScript, and I love to do most of the things using JavaScript. Additionally, I am a skilled Mobile Developer using Flutter, which allows me to create high-quality, cross-platform mobile applications. I am available for any kind of job opportunity that suits my skills and interests.",
   email: 'tsouri.chahine@gmail.com',
