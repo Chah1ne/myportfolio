@@ -11,7 +11,7 @@ function Education() {
   return (
     <div id="education" className="relative z-50 border-t my-12 lg:my-24 border-[#25213b]">
       <Image
-        src="/section.svg"
+        src="./section.svg"
         alt="Hero"
         width={1572}
         height={795}
