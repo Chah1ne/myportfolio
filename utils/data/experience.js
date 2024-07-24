@@ -3,7 +3,7 @@ export const experiences = [
     id: 1,
     title: 'Mobile App Developer ( Flutter )',
     company: "ASQII – HealthTech Startup.",
-    duration: "(dec 2023 - juin 2024)"
+    duration: "(nov 2023 - juil 2024)"
   },
   {
     id: 2,

@@ -122,7 +122,7 @@ function HeroSection() {
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Socket.io</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Express</span>
+                <span className="text-amber-300">ExpressJs</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">NodeJs</span>
                 <span className="text-gray-400">{"', '"}</span>
@@ -137,8 +137,13 @@ function HeroSection() {
                 <span className="text-amber-300">vercel</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Figma</span>
-                <span className="text-gray-400">{"'],"}</span>
-              </div>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Git</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Flutter</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Android Kotlin</span>
+                <span className="text-gray-400">{"'],"}</span></div>
               <div>
                 <span className="ml-4 lg:ml-8 mr-2 text-white">hardWorker:</span>
                 <span className="text-orange-400">true</span>
