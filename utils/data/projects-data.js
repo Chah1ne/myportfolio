@@ -3,7 +3,7 @@
 export const projectsData = [
     {
         id: 0,
-        name: 'ONCOGUIDE - Mobile Application for Cancer Patients 📱',
+        name: 'ONCOGUIDE - Mobile Application for Cancer Patients',
         description: "ONCOGUIDE is a mobile app for cancer patients to manage treatment and follow-ups, improving communication with doctors. Features include treatment tracking, medication reminders, health journal, access to medical documents, education, psychological support, and calendar management.",
         tools: ['flutter','nodeJs','docker','jwt','token','Sequelize','expressJs','cloudinary','nodemailer','socketIo'],
         role: 'Mobile App Developer',
