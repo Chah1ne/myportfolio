@@ -72,7 +72,7 @@ export const projectsData = [
     
     {
         "id": 7,
-        "name": "App-Mobile-Voyage 📱",
+        "name": "App Mobile Voyage 📱",
         "description": "Développement d'une application mobile dédiée aux voyages avec Flutter et Firebase, offrant divers services tels que la météo, les informations sur les pays et une galerie photo .",
         "tools": ["Flutter","Firbase", "api", "sqlite"],
         "code": "https://github.com/Chah1ne/App-Mobile-Voyage",
@@ -82,7 +82,7 @@ export const projectsData = [
 
     {
         "id": 8,
-        "name": "App-Mobile-GestionLivre 📱",
+        "name": "App Mobile GestionLivre 📱",
         "description": "A mobile application for efficient book management, offering key features for reading enthusiasts and professionals. Users can add, edit, and view books with detailed information, search by title, author, or category, and manage their library with organization and favorite marking. The app ensures seamless data synchronization across devices.",
         "tools": ["kotlin", "android-studio","SQLite"],
         "code": "https://github.com/Chah1ne/App-Mobile-GestionLivre",
@@ -92,11 +92,11 @@ export const projectsData = [
 
     {
         "id": 9,
-        "name": "My Cv in App mobile 📱",
+        "name": "App Mobile Portfolio 📱",
         "description": "I've created my CV as a mobile app using Flutter. It works on Android, and I'm currently working on exporting it to iOS as well.",
         "tools": ["Flutter"],
-        "code": "https://github.com/Chah1ne/CV-App-Mobile",
-        "demo": "https://drive.google.com/file/d/1GFWdkM32_gjDK7Rcvk_tEnD3k05tdhtg/view?usp=drive_link",
+        "code": "https://github.com/Chah1ne/portfolio-mobile-app",
+        "demo": "https://drive.google.com/file/d/1GFWdkM32_gjDK7Rcvk_tEnD3k05tdhtg/view",
         "role": "Mobile App Developer"
     }
     
