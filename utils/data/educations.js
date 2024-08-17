@@ -2,8 +2,8 @@ export const educations = [
   {
     id: 1,
     title: "software engineering student",
-    duration: "sept. 2024 - present",
-    institution: "Sésame University - Tunis",
+    duration: "sept. 2024",
+    institution: "Alternance Search - Tunis",
     additionalInfo: "Full-Stack Software Developer",
   },
   {
