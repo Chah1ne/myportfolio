@@ -3,7 +3,7 @@ export const experiences = [
     id: 1,
     title: 'Technical Consultant',
     company: "Teamwill",
-    duration: "(oct 2024 - Today"
+    duration: "(oct 2024 - Today)"
   },
   {
     id: 2,
