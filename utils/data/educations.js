@@ -2,14 +2,14 @@ export const educations = [
   {
     id: 1,
     title: "software engineering student",
-    duration: "sept. 2024",
+    duration: "sept. 2024 - juin. 2028",
     institution: "Engineering degree through a work-study program , University Sesame Tunisia ",
     additionalInfo: "Full-Stack Software Developer",
   },
   {
     id: 1,
     title: "Bachelor's Degree in Computer Science",
-    duration: "sept. 2021 - juin 2024",
+    duration: "sept. 2021 - juin. 2024",
     institution: "Higher Institute of Technological Studies of Sfax - Tunisia",
     additionalInfo: "Specialization In Information Systems Development ",
   },
