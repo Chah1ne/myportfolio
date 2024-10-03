@@ -3,7 +3,7 @@ export const educations = [
     id: 1,
     title: "software engineering student",
     duration: "sept. 2024",
-    institution: "Alternance Search - Tunis",
+    institution: "Engineering degree through a work-study program , University Sesame Tunisia ",
     additionalInfo: "Full-Stack Software Developer",
   },
   {
