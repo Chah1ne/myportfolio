@@ -96,7 +96,7 @@ export const projectsData = [
         "description": "I've created my CV as a mobile app using Flutter. It works on Android, and I'm currently working on exporting it to iOS as well.",
         "tools": ["Flutter"],
         "code": "https://github.com/Chah1ne/portfolio-mobile-app",
-        "demo": "https://drive.google.com/file/d/1GFWdkM32_gjDK7Rcvk_tEnD3k05tdhtg/view",
+        "demo": "https://drive.google.com/file/d/1VIpkY5r1N30DMZylyItNA8DfBKaywUS2/view?usp=drive_link",
         "role": "Mobile App Developer"
     }
     
