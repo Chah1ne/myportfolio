@@ -7,7 +7,7 @@ export const experiences = [
   },
   {
     id: 2,
-    title: 'Junior Software Developer ( Flutter & Mern stack )',
+    title: 'Junior Software Developer  ⁽ ᶠˡᵘᵗᵗᵉʳ & ᴹᵉʳᶰ ᶳᵗᵃᶜᵏ ⁾',
     company: "ASQII – HealthTech Startup.",
     duration: "(oct 2023 - sept 2024)"
   },
