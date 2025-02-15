@@ -1,32 +1,27 @@
 export const experiences = [
+ 
   {
-    id: 1,
-    title: 'Software Engineer & Technical Consultant',
-    company: "Teamwill Consulting",
-    duration: "(oct 2024 - Present)"
+    "id": 1,
+    "title": "Software Engineer & Technical Consultant | Java/React",
+    "company": "Teamwill Consulting",
+    "duration": "(Oct 2024 - Present)"
   },
   {
-    id: 2,
-    title: 'Junior Software Developer',
-    company: "ASQII – HealthTech Startup",
-    duration: "(oct 2023 - sept 2024)"
+    "id": 2,
+    "title": "Mobile Software Engineer | Flutter & Node.js",
+    "company": "ASQII - HealthTech",
+    "duration": "(Oct 2023 - Sept 2024)"
   },
   {
-    id: 3,
-    title: "Flutter Developer",
-    company: "Freelance",
-    duration: "(avr 2023 - sept 2023)",
+    "id": 3,
+    "title": "Full-Stack Developer Intern | React.js & Node.js",
+    "company": "Centre National de l'Informatique",
+    "duration": "(Jan 2023 - Mar 2023)"
   },
   {
-    id: 4,
-    title: "Full-Stack Developer Intern",
-    company: "National Informatics Center (CNI)",
-    duration: "(jan 2023 - mars 2023)"
+    "id": 4,
+    "title": "Oracle Database Administrator Intern | PL/SQL • SQL • PHP",
+    "company": "CTN - Compagnie Tunisienne de Navigation",
+    "duration": "(Jan 2022 - Mar 2022)"
   },
-  {
-    id: 5,
-    title: "Oracle Database Administrator Intern",
-    company: "CTN - Tunisian Navigation Company",
-    duration: "(jan 2022 - mars 2022)"
-  }
 ];
